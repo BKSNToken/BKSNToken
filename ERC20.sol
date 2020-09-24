@@ -10,10 +10,6 @@ import "./SafeMath.sol";
  * that a supply mechanism has to be added in a derived contract using {_mint}.
  * For a generic mechanism see {ERC20Mintable}.
  *
- * TIP: For a detailed writeup see our guide
- * https://forum.zeppelin.solutions/t/how-to-implement-erc20-supply-mechanisms/226[How
- * to implement supply mechanisms].
- *
  * We have followed general OpenZeppelin guidelines: functions revert instead
  * of returning `false` on failure. This behavior is nonetheless conventional
  * and does not conflict with the expectations of ERC20 applications.
