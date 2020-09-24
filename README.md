@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there！ You are welcome to submit new ideas！ 👋
 
 <!--
 **BKSNToken/BKSNToken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
